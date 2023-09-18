@@ -1,5 +1,5 @@
 ---
-published; false
+published: false
 ---
 
 ## Blog Post Title From First Header
