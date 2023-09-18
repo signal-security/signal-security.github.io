@@ -6,7 +6,7 @@ author: "Peter Z."
 published: true
 ---
 
-<div class="hero-image">
+<div>
   <img src="{{ page.hero_image }}" alt="Hero Image Alt Text">
 </div>
 
