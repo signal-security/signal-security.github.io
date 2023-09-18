@@ -61,16 +61,6 @@ hr {
   background: rgba(0, 0, 0, 0.5); /* Adjust the color and opacity as needed */
 }
 
-.hero-text {
-  font-family: 'Your Font', sans-serif; /* Use your preferred font */
-  color: #fff; /* Text color */
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Optional shadow for better contrast */
-  position: absolute;
-  top: 50%; /* Adjust to vertically center the text */
-  left: 50%; /* Adjust to horizontally center the text */
-  transform: translate(-50%, -50%);
-}
-
 @media (max-width: 768px) {
   .hero-image {
     background-position: center top; /* Adjust for smaller screens */
