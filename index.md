@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+A site dedicated to helping U.S. Army Signal Soldiers at the Brigade level and below.
