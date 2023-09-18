@@ -2,6 +2,7 @@
 layout: post
 title: "Welcome to Signal Security!"
 hero_image: /images/red-smoke.jpg
+author: "Peter Z."
 published: true
 ---
 
