@@ -7,7 +7,8 @@ author: "Peter Z."
 published: true
 ---
 
-
+<div>
+</div>
 
 ### Welcome
 This is a site dedicated to helping Signal Soldiers by Signal Soldiers
