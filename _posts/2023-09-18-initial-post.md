@@ -2,13 +2,12 @@
 layout: post
 title: "Welcome to Signal Security!"
 hero_image: /images/red-smoke.jpg
+hero_alt_text: "Two Soldiers with red smoke in the background"
 author: "Peter Z."
 published: true
 ---
 
-<div>
-  <img src="{{ page.hero_image }}" alt="Hero Image Alt Text">
-</div>
+
 
 ### Welcome
 This is a site dedicated to helping Signal Soldiers by Signal Soldiers
