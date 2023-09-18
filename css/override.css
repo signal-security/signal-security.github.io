@@ -43,8 +43,8 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
-/* 
-/* Hero Image Stying */
+
+/* Hero Image Styling */
 .hero-image {
   background-size: cover;
   background-position: center center;
@@ -65,7 +65,4 @@ hr {
   .hero-image {
     background-position: center top; /* Adjust for smaller screens */
   }
-  .hero-text {
-    font-size: 24px; /* Adjust text size for smaller screens */
-  }
-} */
+}
