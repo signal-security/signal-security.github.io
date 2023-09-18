@@ -5,10 +5,10 @@ hero_image: /images/red-smoke.jpg
 author: "Peter Z."
 published: true
 ---
-<!-- 
+
 <div class="hero-image">
   <img src="{{ page.hero_image }}" alt="Hero Image Alt Text">
-</div> -->
+</div>
 
 ### Welcome
 This is a site dedicated to helping Signal Soldiers by Signal Soldiers
