@@ -1,4 +1,7 @@
-
+---
+layout: home
+title: Blog
+---
 `blog.md`
 
 
