@@ -1,7 +1,4 @@
----
-layout: page
-title: Blog
----
+
 `blog.md`
 
 
